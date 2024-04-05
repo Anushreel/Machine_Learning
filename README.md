@@ -1,4 +1,4 @@
-<h1 align="center">:rocket: Generic Machine Learning Project Template :rocket:</h1>
+<h1 align="center">:rocket: Generic Data Science Project Template :rocket:</h1>
 
 ---
 
@@ -36,7 +36,7 @@ Explain the problem solving approch
 
 <h3 align="center">Project Structure</h3>
 
-
+```
 │  
 ├── .github
 │   │
@@ -122,6 +122,6 @@ Explain the problem solving approch
 ├── template.py                              <-- program used to create the project structure
 │
 └── tox.ini                                  <-- used to automate and manage the testing of a project across multiple python environments
-
+```
 
 ---
